@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driverClassName: org.h2.Driver
+    generateUniqueName: false
+    name: tacoCloud
+    username: sa
+    password: pass
