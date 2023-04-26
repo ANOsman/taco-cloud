@@ -5,3 +5,6 @@ spring:
     name: tacoCloud
     username: sa
     password: pass
+  data:
+    rest:
+      base-path: data-api
