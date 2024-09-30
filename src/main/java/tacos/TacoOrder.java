@@ -25,7 +25,7 @@ public class TacoOrder implements Serializable {
     private String deliveryCity;
     private String deliveryStreet;
     private String deliveryState;
-    private String deliveryZip;
+    private String deliveryZipCode;
     private String ccNumber;
     private String ccExpiration;
     private String ccVV;
